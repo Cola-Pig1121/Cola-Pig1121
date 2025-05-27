@@ -12,4 +12,4 @@
   * Heavy cola drinker <img src="./p-cola.gif" width="30px"/>
   * Love tossing technology 💻
   * Read books;lover of poetry 📖
-  * good at scoccer ⚽:
+  * good at soccer ⚽:
