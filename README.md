@@ -8,7 +8,7 @@
   </div>
 
 ## About me
-  * A student :student:
+  * A student 👨‍🎓:
   * Heavy cola drinker :cola:
   * Love tossing technology 💻
   * Read books;lover of poetry 📖
