@@ -9,7 +9,7 @@
 
 ## About me
   * A student :student:
-  * Heavy cola drinker :coke:
+  * Heavy cola drinker :cola:
   * Love tossing technology 💻
   * Read books;lover of poetry 📖
   * good at scoccer ⚽:
