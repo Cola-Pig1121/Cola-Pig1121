@@ -1,16 +1,15 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  
+  <h1>
+    Hey, I'm <a href="https://cpwiki.v6.army">Cola Pig</a>!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  </div>
 
-<!--
-**Cola-Pig1121/Cola-Pig1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+  * A student :student:
+  * Heavy cola drinker :coke:
+  * Love tossing technology 💻
+  * Read books;lover of poetry 📖
+  * good at scoccer ⚽:
